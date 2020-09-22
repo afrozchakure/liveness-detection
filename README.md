@@ -3,6 +3,7 @@
 ### Project containing research methods for Liveness Detection
 
 Link to article : https://arxiv.org/abs/1405.2227
+Link to All Methods: [Methods ReadMe.md](https://github.com/afrozchakure/liveness-detection/blob/master/Github_methods.md)
 
 ### Discussed Methods in the paper for liveness detection
 ### 1. Frequency and Texture based analysis  
